@@ -4,8 +4,3 @@
 .high{
     min-height: 80vh;
 }
-@media screen and (max-width: 992px){
-    .test{
-        margin-top: 3vh;
-    } 
-}
