@@ -12,6 +12,7 @@ body {
 @media screen and (max-width: 992px){
     .test{
         margin-top: 3vh;
+        margin-bottom: 3vh;
     }
     .taj{
         margin-top: 3vh;
